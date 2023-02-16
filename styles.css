@@ -1,0 +1,39 @@
+.QRImg {
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 190px;
+}
+
+
+.QRContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:100%;
+}
+
+.QRBoldText {
+    font-weight: bold;
+    font-size: 15px;
+    margin: 15px 15px 0px 15px;
+}
+
+.QRSmallText {
+    font-size: 10px;
+    margin: 10px 15px 0px 15px;
+    color: #90939f;
+}
+
+.QRBox {
+    height: 330px;
+    width: 210px;
+    background-color: white;
+    border-radius: 10px;
+}
+html, body {
+    font-family: "Sofia", sans-serif;
+    height: 100%;
+    margin: 0;
+    text-align: center;
+    background-color: rgb(213, 225, 239);
+}
